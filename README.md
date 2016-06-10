@@ -19,7 +19,7 @@ Overview
 
 ## Licence
 
-[MIT](https://github.com/fujiwarakoubou/readme/MIT)
+[MIT](https://github.com/fujiwarakoubou/readme/blob/master/MIT)
 
 ## Author
 
